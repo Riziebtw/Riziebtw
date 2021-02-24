@@ -1,7 +1,7 @@
 ### 🥀 Hi there, i'm Rzy
 
 - *🍹 I am currently working for [Mynt](https://mynt.industries).*
-- *🍇 You can reach me on Discord: Rzy#1059 or Telegram: @Rzyyyyy*
+- *🍇 You can reach me on Telegram: @Rzyyyyy*
 
 
 [![Rzy's github stats](https://github-readme-stats.vercel.app/api?username=Riziebtw)](https://github.com/anuraghazra/github-readme-stats)

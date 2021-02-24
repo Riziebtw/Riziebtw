@@ -1,7 +1,7 @@
-### 🥀 Hi there, i'm Rzy
+### 🥀 Hi there, i'm Maxime
 
-- *🍹 I am currently working for [Mynt](https://mynt.industries).*
-- *🍇 You can reach me on Telegram: @Rzyyyyy*
+- *🍹 French 16yo studen and currently working for [Mynt](https://mynt.industries).*
+- *🍇 You can reach me on Twitter: @yho*
 
 
 [![Rzy's github stats](https://github-readme-stats.vercel.app/api?username=Riziebtw)](https://github.com/anuraghazra/github-readme-stats)

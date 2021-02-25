@@ -1,6 +1,6 @@
 ### 🥀 Hi there, i'm Maxime
 
-- *🍹 French 16yo studen and currently working for [Mynt](https://mynt.industries).*
+- *🍹 16yo French student and currently working for [Mynt](https://mynt.industries).*
 - *🍇 You can reach me on Twitter: @yho*
 
 

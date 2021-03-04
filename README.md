@@ -4,5 +4,5 @@
 - *🍇 You can reach me on Twitter: @yho*
 
 
-[![Rzy's github stats](https://github-readme-stats.vercel.app/api?username=ctsmax&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Maxime's github stats](https://github-readme-stats.vercel.app/api?username=ctsmax&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctsmax&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
